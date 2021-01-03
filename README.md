@@ -1,4 +1,4 @@
-# About
+# Abo ut
 
 [![Build Status](https://travis-ci.org/amazon-connect/amazon-connect-streams.svg?branch=master)](https://travis-ci.org/amazon-connect/amazon-connect-streams)
 
